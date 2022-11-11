@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maruf Rahman
 - 👀 I’m interested in developing new stuff and help my day to day life with it
-- 🌱 I’m currently in CS degree abd Math minor
+- 🌱 I’m currently in CS degree and Math minor
 - 💞️ I’m looking to collaborate on dev based projects
 - 📫 Reaching me 
 
